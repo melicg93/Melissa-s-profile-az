@@ -15,8 +15,14 @@ export default function EducationSection() {
   const educations: Education[] = [
     {
       id: "edu-1",
+      institution: "IBAT COLLEGE",
+      degree: "BACHELOR OF ARTS HONS. IN BUSINESS",
+      location: "Dublin, Ireland",
+    },
+    {
+      id: "edu-2",
       institution: "UNIVERSIDAD CATOLICA",
-      degree: "BUSINESS ADMINISTRATION",
+      degree: "BACHELOR IN SCIENCE IN BUSINESS ADMINISTRATION",
       location: "Ciudad del Este, Paraguay",
     },
     {
