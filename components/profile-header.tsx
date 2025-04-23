@@ -18,7 +18,7 @@ export default function ProfileHeader() {
             </div>
             <div>
               <div className="flex items-center">
-                <h1 className="text-4xl font-bold text-[#ffc107]">Melissa Cantero</h1>
+                <h1 className="text-4xl font-bold text-[#ffc107]">Melissa Cantero Gomez</h1>
               </div>
               <p className="text-xl mt-2">Hospitality Professional</p>
             </div>
@@ -41,7 +41,7 @@ export default function ProfileHeader() {
             </div>
             <div className="flex items-center">
               <MapPin className="h-5 w-5 text-[#ffc107] mr-2" />
-              <span>70 Charlemont, Grace Park, Griffith Avenue - Dublin 9</span>
+              <span>167 Harcourt Green, Charlemont Street - Dublin 2</span>
             </div>
           </div>
         </div>
